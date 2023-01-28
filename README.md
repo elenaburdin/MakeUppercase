@@ -1,0 +1,2 @@
+# MakeUppercase
+Codewars
